@@ -1,10 +1,10 @@
 package main
 
 import (
-	"code.google.com/p/go.net/websocket"
-	"github.com/BenLubar/Rnoadm/hero"
-	"github.com/BenLubar/Rnoadm/material"
-	"github.com/BenLubar/Rnoadm/world"
+	"golang.org/x/net/websocket"
+	"github.com/Rnoadm/Rnoadm-Legacy/hero"
+	"github.com/Rnoadm/Rnoadm-Legacy/material"
+	"github.com/Rnoadm/Rnoadm-Legacy/world"
 	"io"
 	"log"
 	"math/big"

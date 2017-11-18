@@ -1,7 +1,7 @@
 package hero
 
 import (
-	"github.com/BenLubar/Rnoadm/world"
+	"github.com/Rnoadm/Rnoadm-Legacy/world"
 	"math/rand"
 	"time"
 )

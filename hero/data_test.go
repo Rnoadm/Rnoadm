@@ -1,7 +1,7 @@
 package hero
 
 import (
-	"github.com/BenLubar/Rnoadm/resource"
+	"github.com/Rnoadm/Rnoadm-Legacy/resource"
 	"regexp"
 	"strings"
 	"testing"

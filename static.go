@@ -3,7 +3,7 @@ package main
 import (
 	"bytes"
 	"compress/gzip"
-	"github.com/BenLubar/Rnoadm/resource"
+	"github.com/Rnoadm/Rnoadm-Legacy/resource"
 	"log"
 	"net/http"
 	"strconv"

@@ -2,7 +2,7 @@ package material
 
 import (
 	"fmt"
-	"github.com/BenLubar/Rnoadm/world"
+	"github.com/Rnoadm/Rnoadm-Legacy/world"
 	"image/color"
 	"math/big"
 	"sort"

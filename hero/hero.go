@@ -2,7 +2,7 @@ package hero
 
 import (
 	"fmt"
-	"github.com/BenLubar/Rnoadm/world"
+	"github.com/Rnoadm/Rnoadm-Legacy/world"
 	"math/big"
 	"math/rand"
 	"sync"

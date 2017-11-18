@@ -1,12 +1,12 @@
 package hero
 
 import (
-	"code.google.com/p/go.crypto/bcrypt"
+	"golang.org/x/crypto/bcrypt"
 	"compress/gzip"
 	"encoding/base32"
 	"encoding/gob"
 	"fmt"
-	"github.com/BenLubar/Rnoadm/world"
+	"github.com/Rnoadm/Rnoadm-Legacy/world"
 	"math/rand"
 	"os"
 	"path/filepath"
